@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ev0gs
 - 👀 I’m interested in video games, music (bass instrument), sport and coding.
-- 🌱 I’m currently learning a lot of new notions thanks to the engineer school I'm studying at. These notions are mostly coding such as C/C++/Arduino/Javascript/HTML/CSS/PHP/Web etc...
+- 🌱 I’m currently learning a lot of new notions thanks to the engineer school I'm studying at. These notions are mostly coding such as SQL/C/C++/Arduino/Javascript/HTML/CSS/PHP/Web etc...
 - 🎮 I'm currently making a personal project, who turn arround video games, on unity. It's a 2D platformer video game and it is my first one in my life. I decided to make one because I would like to work in the video game industry.
 - 💞️ I’m looking to collaborate for an internship on video game developement or project arround coding.
 - 📫 How to reach me : pierre.latorse@viacesi.fr
